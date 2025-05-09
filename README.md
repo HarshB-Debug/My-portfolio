@@ -30,14 +30,8 @@ I am a results-driven Information Technology student currently pursuing a B.Tech
 
 ## Deployment
 
-This portfolio is deployed using GitHub Pages and accessible at:
-
-https://your-username.github.io/
-
-text
-
-Replace `your-username` with your GitHub username.
-
+This portfolio is deployed using GitHub Pages and accessible 
+https://harshb-debug.github.io/My-portfolio/
 ## Contact
 
 Feel free to reach out to me for collaboration or opportunities:
